@@ -1,0 +1,2 @@
+#Windows 结束符转为unix结束符
+dos2unix filename
